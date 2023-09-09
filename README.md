@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sefabrt&label=Profile%20views&color=0e75b6&style=flat" alt="sefabrt" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.sefabrt.com](www.sefabrt.com)
+- 👨‍💻 All of my projects are available at [sefabrt.com](sefabrt.com)
 
 - 📫 How to reach me **sefaeren.barut0@gmail.com**
 
